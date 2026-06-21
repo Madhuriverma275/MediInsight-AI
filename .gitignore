@@ -1,7 +1,8 @@
 .env
-pycache/
+__pycache__/
 uploads/
 *.pdf
 *.pyc
-.venv/
 venv/
+.venv/
+.streamlit/
