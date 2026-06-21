@@ -142,11 +142,11 @@ MediInsight_AI/
 ## 1. Clone Repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/Madhuriverma275/MediInsight-AI.git
 ```
 
 ```bash
-cd MediInsight_AI
+cd MediInsight-AI
 ```
 
 ---
